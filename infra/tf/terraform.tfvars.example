@@ -1,0 +1,4 @@
+aws_profile = "your-aws-profile"
+aws_region   = "eu-central-1"
+root_domain = "example.com"
+subdomain   = "blog"
